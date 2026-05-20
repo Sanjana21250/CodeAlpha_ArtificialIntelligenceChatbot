@@ -102,14 +102,3 @@ After running the application:
 ```bash
 http://localhost:8080
 ```
-
----
-
-## Future Improvements
-
-* Add Machine Learning model
-* Use database instead of CSV
-* Add voice chatbot support
-* Improve NLP processing
-* Add authentication system
-* Deploy on cloud platform
